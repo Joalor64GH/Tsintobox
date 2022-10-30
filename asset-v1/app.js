@@ -80,7 +80,25 @@ var app = new function() {
         name: "20_demoend",
         color: "f5c000",
         uniqsnd: !0
-    }], this.bonusarray = [/*No bonus lol*/];
+    }], this.bonusarray = [{
+        name: "Unfinished",
+        src: "v1-b1-unfinished-hb.mp4",
+        code: "1,5,6,7,11",
+        sound: "21_bonus_unfinished",
+        aspire: "aspire"
+    }, {
+        name: "Unfinished",
+        src: "v1-b2-unfinished-hb.mp4",
+        code: "2,8,10,12,18",
+        sound: "22_bonus_unfinished",
+        aspire: "aspire"
+    }, {
+        name: "Unfinished",
+        src: "v1-b3-unfinished-hb.mp4",
+        code: "3,9,14,15,19",
+        sound: "23_bonus_unfinished",
+        aspire: "aspire"
+    }];
     for (var n = 0, o = this.animearray.length; n < o; n++) {
         var a = this.animearray[n].name;
         this.animearray[n].soundA = a + "_a", this.animearray[n].soundB = this.animearray[n].uniqsnd ? a + "_a" : a + "_b", this.animearray[n].anime = a + "-sprite.png", this.animearray[n].animeData = a + ".json"
