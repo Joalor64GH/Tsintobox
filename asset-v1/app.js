@@ -83,7 +83,7 @@ var app = new function() {
     }], this.bonusarray = [{
         name: "Unfinished",
         src: "v1-b1-unfinished-hb.mp4",
-        code: "1,5,6,7,11",
+        code: "1,5,6,9,11",
         sound: "21_bonus_unfinished",
         aspire: "aspire"
     }, {
@@ -95,7 +95,7 @@ var app = new function() {
     }, {
         name: "Unfinished",
         src: "v1-b3-unfinished-hb.mp4",
-        code: "3,9,14,15,19",
+        code: "1,2,14,15,19",
         sound: "23_bonus_unfinished",
         aspire: "aspire"
     }];
