@@ -33,11 +33,11 @@ var app = new function() {
         color: "c9ba87",
         uniqsnd: !0
     }, {
-        name: "effet4_tululou",
+        name: "9_demoend",
         color: "c9ba87",
         uniqsnd: !0
     }, {
-        name: "effet5_tumttt",
+        name: "10_demoend",
         color: "c9ba87",
         uniqsnd: !0
     }, {
@@ -61,42 +61,42 @@ var app = new function() {
         color: "82a0b8",
         uniqsnd: !0
     }, {
-        name: "coeur1_oaaah",
+        name: "16_demoend",
         color: "82a0b8",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
-        name: "coeur2_cougou",
+        name: "17_demoend",
         color: "82a0b8",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
-        name: "coeur3_porticoeur",
+        name: "18_demoend",
         color: "82a0b8",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
-        name: "voix1_isit",
+        name: "19_demoend",
         color: "82a0b8",
-        uniqsnd: !1
+        uniqsnd: !0
     }, {
-        name: "voix2_uare",
+        name: "20_demoend",
         color: "82a0b8",
-        uniqsnd: !1
+        uniqsnd: !0
     }], this.bonusarray = [{
-        name: "Satisfied",
-        src: "v2-b1-satisfy-hb.mp4",
+        name: "Unfinished",
+        src: "v2-b1-unfinished-hb.mp4",
         code: "1,2,5,11,12",
-        sound: "bonus-satisfy",
+        sound: "21_bonus_unfinished",
         aspire: "aspire"
     }, {
-        name: "Little Miss",
-        src: "v2-b2-miss-hb.mp4",
+        name: "Unfinished",
+        src: "v2-b2-unfinished-hb.mp4",
         code: "2,4,6,7,15",
-        sound: "bonus-miss",
+        sound: "22_bonus_unfinished",
         aspire: "aspire"
     }, {
-        name: "Why this world",
-        src: "v2-b3-world-hb.mp4",
+        name: "Unfinished",
+        src: "v2-b3-unfinished-hb.mp4",
         code: "3,5,8,13,14",
-        sound: "bonus-world",
+        sound: "23_bonus_unfinished",
         aspire: "aspire"
     }];
     for (var o = 0, n = this.animearray.length; o < n; o++) {
