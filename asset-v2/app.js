@@ -33,11 +33,11 @@ var app = new function() {
         color: "c9ba87",
         uniqsnd: !0
     }, {
-        name: "9_demoend",
+        name: "9_gitara",
         color: "c9ba87",
         uniqsnd: !0
     }, {
-        name: "10_demoend",
+        name: "10_lovushka",
         color: "c9ba87",
         uniqsnd: !0
     }, {
