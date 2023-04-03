@@ -61,11 +61,11 @@ var app = new function() {
         color: "82a0b8",
         uniqsnd: !0
     }, {
-        name: "16_demoend",
+        name: "16_monakhinya",
         color: "82a0b8",
         uniqsnd: !0
     }, {
-        name: "17_demoend",
+        name: "17_khor",
         color: "82a0b8",
         uniqsnd: !0
     }, {
@@ -81,12 +81,12 @@ var app = new function() {
         color: "82a0b8",
         uniqsnd: !0
     }], this.bonusarray = [{
-        name: "Unfinished",
-        src: "v2-b1-unfinished-hb.mp4",
+        name: "Khram Boga",
+        src: "v2-b1-khram_boga-hb.mp4",
         code: "1,2,5,11,12",
-        sound: "21_bonus_unfinished",
-        aspire: "aspire"
-    }, {
+        sound: "21_bonus_khram-boga",
+        aspire: "aspire-khram_boga"
+    }/*, {
         name: "Unfinished",
         src: "v2-b2-unfinished-hb.mp4",
         code: "2,4,6,7,15",
@@ -98,7 +98,7 @@ var app = new function() {
         code: "3,5,8,13,14",
         sound: "23_bonus_unfinished",
         aspire: "aspire"
-    }];
+    }*/];
     for (var o = 0, n = this.animearray.length; o < n; o++) {
         var i = this.animearray[o].name;
         this.animearray[o].soundA = i + "_a", this.animearray[o].soundB = this.animearray[o].uniqsnd ? i + "_a" : i + "_b", this.animearray[o].anime = i + "-sprite.png", this.animearray[o].animeData = i + ".json"
