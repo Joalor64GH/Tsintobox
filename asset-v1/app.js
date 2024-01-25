@@ -1,6 +1,6 @@
 /* 0.5.4 2022-12-UNRELEASED ??:??:?? */
 var app = new function() {
-    this.name = "Paradisky", this.version = "1", this.date = "2022", this.folder = "asset-v1/", this.looptime = 3700, this.bpm = 130, this.totalframe = 178, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !0, this.bonusendloopA = !2, this.recmaxloop = 48, this.recminloop = 6, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#121212", this.col0 = "#919191", this.col1 = "#5f5f5f", this.col2 = "#4b4b4b", this.col3 = "#373737", this.col4 = "#232323", this.animearray = [{
+    this.name = "Paradisky", this.version = "1", this.date = "2022", this.folder = "asset-v1/", this.looptime = 3700, this.bpm = 130, this.totalframe = 130, this.nbpolo = 7, this.nbloopbonus = 2, this.bonusloopA = !0, this.bonusendloopA = !2, this.recmaxloop = 48, this.recminloop = 6, this.recmintime = Math.round(this.looptime / 1e3) * this.recminloop, this.spritepolo = "polo-sprite.png", this.spritepicto = "game-picto.png", this.colBck = "#121212", this.col0 = "#919191", this.col1 = "#5f5f5f", this.col2 = "#4b4b4b", this.col3 = "#373737", this.col4 = "#232323", this.animearray = [{
         name: "1_armon",
         color: "0000ff",
         uniqsnd: !0
